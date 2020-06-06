@@ -9,3 +9,6 @@ ArchiveMagick is an Archive app I have coded due to to the lack of compatibity o
 
 ## 3DOpen
 3DOpen is a utility that will read, import, and open various 3D file types in Blender, a free, Open Source app. To use this app you will have to have a version of Blender >= 2.6. You can download Blender [here](https://www.blender.org/download/). Supported 3D file types are Collada (\*.dae), Alembic (\*.abc), Autodesk FBX (\*.fbx), Autodesk 3ds (\*.3ds), Wavefront (\*.obj), Extensible 3D (\*.x3d, \*.wrl), Stl (\*.stl), Stanford (\*.ply), Motion Capture (\*.bvh), and Scalable Vector Graphics (\*.svg).
+
+## PDFClean
+PDFClean is a utility that will clean up PDF files. Often with photo scanned files have artifacts near abrupt borders. This app solves these, making your PDFs easy to read. You simply have to select a file, select the quality, and select the file you wantt to save it as. The quality, a value between 1 and 50 dictates the resolution of the output. Generally, a higher quality leads to more satisfactory results but sacrifices time. I have found that a quality of 30 leads to nearly imperceptible quality while faster than the highest quality, 50. 
